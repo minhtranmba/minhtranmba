@@ -13,12 +13,10 @@
 
 :man_technologist: About Me:<br>
 
-I am a Product/Project Manager enjoying playing with data to discover insights and turn them into great products.
+I enjoy playing with data, both quantitative and qualitative, to discover insights and turn them into great products and business decisions.
 - 🔥 I've done intensive analytical projects. Some of them: [Youtube_data_scraper](https://github.com/minhtranmba/youtube_data_scraper), [Youtube_data_analysis](https://github.com/minhtranmba/youtube_data_analysis), and [Heart_disease_prediction](https://github.com/minhtranmba/heart_disease_model_prediction) 
-- 🔭 I’m currently working on developing a mobile app for iOS
-- 🌱 I’m currently learning new programming languages to help me with building my app
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I like to use Numerology to understand people
+- ⚡ Fun fact: I like to use Numerology to understand others
 ---
 :hammer_and_wrench: Languages and Tools :
 <div>
